@@ -1,0 +1,3 @@
+,userId,night_inputDt,pmEmotion,pmStress,ifUnusual,breakfast,lunch,dinner,lateSnack,amCaffeine,amCaffAmount,pmCaffeine,pmCaffAmount,alcohol,aAmount,date,sleep,inputDt,sleepProblem,dream,amCondition,amEmotion,total_CaffAmount,date_m,startDt,endDt,device,sleep_score,total_sleep_time,time_in_bed,waso,wakeupcount,aal,movement_index,fragmentation_index,sleep_frag_index
+0,13,2018-10-31 23:00,5.0,2.0,2.0,4.0,3.0,3.0,4.0,,,,,,,2018-10-31,3.0,2018-11-01 8:42,0.0,4.0,2.0,3.0,,2018-11-01,2018-11-01 0:31,2018-11-01 7:52,Fitbit,87.4730022,24300,27780,,,,,,
+0,13,2018-11-01 22:28,5.0,4.0,2.0,4.0,3.0,3.0,4.0,,,,,,,2018-11-01,3.0,2018-11-02 8:16,1.0,4.0,2.0,3.0,,2018-11-02,2018-11-02 0:34,2018-11-02 7:37,Fitbit,84.9935317,19710,23190,,,,,,
